@@ -67,7 +67,7 @@ Spotify is one of the most beloved music streaming platforms, known for its slee
 
 ## 📸 Screenshots
  Home Page 
- ![Spotify Clone Home](https://link-to-your-image/home.png) 
+ ![Spotify Clone Home](demo.png) 
 
 
 
