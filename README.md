@@ -61,8 +61,7 @@ Spotify is one of the most beloved music streaming platforms, known for its slee
 3. **Open `index.html` in your browser.**
 
 ### 🌐 Live Demo
-[🔗 Click Here to View the Demo](#) *(Add your live link here)*
-
+[🔗 Click Here to View the Demo](https://smartswagvivek.github.io/Spotify-clone/) 
 ---
 
 ## 📸 Screenshots
